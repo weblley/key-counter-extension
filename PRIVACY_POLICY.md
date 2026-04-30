@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy — Key Frequency Counter
 
 _Last updated: 2026-04-30_

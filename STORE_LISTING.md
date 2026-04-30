@@ -171,10 +171,10 @@ The extension's purpose is to measure the user's overall typing frequency, which
 ## Privacy policy URL
 
 ```
-https://weblley.github.io/key-counter-extension/PRIVACY_POLICY
+https://weblley.github.io/key-counter-extension/privacy/
 ```
 
-(Assumes GitHub Pages is enabled with `main` branch root or via Jekyll rendering of `PRIVACY_POLICY.md`. Adjust the path if you place the policy under `/docs/` or rename it.)
+GitHub Pages is enabled on `main` branch root. The policy is rendered from `PRIVACY_POLICY.md` via Jekyll (Cayman theme) with `permalink: /privacy/`.
 
 ---
 

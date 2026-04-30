@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: Key Frequency Counter
+description: A privacy-respecting Chrome extension that counts physical key presses to help analyze your keyboard layout.
+show_downloads: false
